@@ -6,6 +6,6 @@
 4. opencv 文档    ：  https://opencv-python-tutroals.readthedocs.io/en/latest
 
 配置信息：
-1.tensorflow ： 1.1.0
+1.tensorflow ： 1.6.0
 2.keras      ： 2.1.5
 3.opencv     ： 3.3.1
